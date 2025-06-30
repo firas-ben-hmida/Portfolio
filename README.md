@@ -23,6 +23,15 @@ Bienvenue dans mon portfolio personnel développé avec **HTML**, **Tailwind CSS
 
 ---
 
+## Captures d'écrans
+
+![Capture d'écran 2025-06-30 015407](https://github.com/user-attachments/assets/774e74c8-f028-4529-b6d3-9bc94bdc3cf5)
+![Capture d'écran 2025-06-30 015425](https://github.com/user-attachments/assets/8b0d7c42-42d9-471f-9bca-77786b611c9b)
+![Capture d'écran 2025-06-30 015455](https://github.com/user-attachments/assets/52e5d982-5af0-46c2-a1e1-52de1df19e17)
+![Capture d'écran 2025-06-30 015526](https://github.com/user-attachments/assets/ab396f16-a64c-48a0-ba04-0787bd46d97d)
+
+---
+
 ## Démonstration
 
 Vous pouvez voir la démo en direct de ce portfolio hébergée sur **Netlify** :
